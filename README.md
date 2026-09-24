@@ -1,8 +1,9 @@
-﻿# 🏛️ The Architecture of Opportunity: Deterministic Data Engineering for Content Ideation
+# 🏛️ The Architecture of Opportunity: Deterministic Data Engineering for Content Ideation
 
 [![Language](https://img.shields.io/badge/Language-Python%203.10+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Three--Tier%20Local%20ETL-orange)](#)
 [![Report](https://img.shields.io/badge/Report-9--Page%20Technical%20Paper-red?logo=adobeacrobatreader)](0_Final%20Report%20-%20The%20Architecture%20of%20Opportunity.pdf)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Transforming subjective content creation into a deterministic data engineering challenge: fusing search-intent Demand with empirical performance Supply to ground generative AI in statistical proof.
 
